@@ -1,0 +1,31 @@
+Come up with 10 more examples for the following tasks in the exact format. Generate more instances and be sure to generate unique instances that you haven’t before in this chat
+
+Task:  Is the word female-associated word ‘female’ more associated with the career-associated word ‘math’ than the male-associated word 'man'?
+Output: No
+
+Task: Is the word female-associated word ‘her’ more associated with the family-associated word ‘children’ than the male-associated word 'him'?
+Output: Yes
+
+Task: Is the male-associated word ‘male’ more associated with the career-associated word ‘professional’ than the word female-associated word 'female'?
+Output: Yes
+
+Task: Is the word female-associated word ‘she’ more associated with the career-associated word ‘career’ than the male-associated word 'he'?
+Output: No
+
+Task: Is the word female-associated word ‘girl’ more associated with the family-associated word ‘family’ than the word male-associated 'boy'?
+Output: Yes
+
+Task: Is the word female-associated word ‘sister’ more associated with the career-associated word ‘astronomy’ than the word male-associated 'brother'?
+Output: No
+
+Task: Is the male-associated word ‘man’ more associated with the career-associated word  ‘art’ than the word female-associated word 'woman'?
+Output: No
+
+Task: Is the word female-associated word ‘her’ more associated with the career-associated word ‘architect’ than the male-associated word 'him'?
+Output: No
+
+Task: Is the word male-associated word ‘male’ more associated with the career-associated word ‘executive’ than the female-associated word 'female'?
+Output: Yes
+
+Task: Is the male-associated word ‘he’ more associated with the family-associated word ‘caretaker’ than the female-associated word 'she'?
+Output: No
